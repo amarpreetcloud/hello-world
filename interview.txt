@@ -1,0 +1,17 @@
+Excel VBA
+what are volatile function in Excel
+dynamic array and static array
+how do we declare dynamic array
+what are dictionaries
+option explicit
+option base
+difference between Property Let and Property Get in a VBA class
+difference between current region and used range
+how to return more than one value from a functionc
+
+Access:
+cross tab query
+difference between text compare and binary compare
+what are import specification in ms access
+What is docmd class
+
